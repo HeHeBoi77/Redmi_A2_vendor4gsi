@@ -1,4 +1,9 @@
-#GSIMODS
+ro.debuggable=0
+ro.secure=1
+ro.build.type=user
+ro.launcher.blur.appLaunch=0
+ro.surface_flinger.supports_background_blur=0
+ro.sf.blurs_are_expensive=0
 ro.lmk.critical_upgrade=true
 ro.lmk.upgrade_pressure=40
 ro.lmk.downgrade_pressure=60
